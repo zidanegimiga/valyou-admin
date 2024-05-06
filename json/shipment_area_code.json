@@ -1,0 +1,57 @@
+[
+  {
+    "id": 11,
+    "location_code": "AJM",
+    "location_name": "AJMAN"
+},
+{
+    "id": 21,
+    "location_code": "ALN",
+    "location_name": "AL AIN"
+},
+{
+    "id": 18,
+    "location_code": "AlQ",
+    "location_name": "Al Qusais"
+},
+{
+    "id": 10,
+    "location_code": "AUH",
+    "location_name": "ABU DHABI"
+},
+{
+    "id": 9,
+    "location_code": "DRA",
+    "location_name": "DEIRA"
+},
+{
+    "id": 13,
+    "location_code": "DXB",
+    "location_name": "DUBAI"
+},
+{
+    "id": 17,
+    "location_code": "FUJ",
+    "location_name": "FUJAIRAH"
+},
+{
+    "id": 12,
+    "location_code": "LDH",
+    "location_name": "DHAID"
+},
+{
+    "id": 14,
+    "location_code": "RAK",
+    "location_name": "RAS AL KHAIMAH"
+},
+{
+    "id": 15,
+    "location_code": "SHJ",
+    "location_name": "SHARJAH"
+},
+{
+    "id": 16,
+    "location_code": "UAQ",
+    "location_name": "UMM AL QUWAIN"
+}
+]

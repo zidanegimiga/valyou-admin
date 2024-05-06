@@ -1,0 +1,142 @@
+@import url("https://fonts.googleapis.com/css2?family=Lexend+Deca:wght@100;200;300;400;500;600;700;800;900&family=Manrope:wght@200;300;400;500;600;700;800&display=swap");
+
+.p-card-content,
+.p-card-body {
+  padding: 0px !important;
+}
+
+.card {
+  background: #fff;
+  padding: 1rem;
+  border-radius: 10px;
+}
+
+.p-button {
+  .p-button-label {
+    font-weight: 400;
+  }
+  &.font-bold {
+    .p-button-label {
+      font-weight: 600;
+    }
+  }
+}
+
+.font-extraBold {
+  font-weight: 700 !important;
+}
+
+.shady-border {
+  border: 1px solid #e2e7f1 !important;
+}
+
+.custom_border {
+  border: solid 2px #ced6e3 !important;
+}
+
+.small__text {
+  font-size: 12px !important;
+  letter-spacing: 1.2px;
+  color: #000000 !important;
+}
+
+.custom_avatar {
+  width: 5rem !important;
+  /* Adjust the width as needed */
+  height: 5rem !important;
+  /* Adjust the height as needed */
+}
+
+.outlined_span_btn {
+  padding: 0.5rem 1rem;
+  border-radius: 7px;
+  border: 1px solid #e2e7f1;
+  color: #abacb0;
+  font-size: 0.7rem !important;
+  cursor: pointer;
+  font-weight: 600 !important;
+
+  &.disabled_span_btn{
+    color: #bfc0c6;
+    background: #dadbdf74;
+    cursor: not-allowed;
+  }
+  &.active_span_btn {
+    border-color: #0c94ff;
+    background: #0c94ff !important;
+    color: #fff;
+    transition: all .3s ease-in-out;
+  }
+}
+
+
+/* Ahmad Wrapper CSS Lib */
+
+/* new future not should to be used for now - need JavaScript */
+.wrapper{
+  display: flex;
+  height: 100%;
+  width: 100%; 
+
+  max-width: fit-content;
+  max-height: fit-content;
+  align-content: flex-start;
+}
+
+/* new future not should to be used for now - need JavaScript */
+.expand-row {
+  flex-grow: 1;
+  width: auto;
+}
+
+/* new future not should to be used for now - need JavaScript */
+.expand-column {
+  flex-grow: 1;
+  height: auto;
+}
+
+
+/* This class is used to set up a flex container with column direction and full height */
+.wrapper-column {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+}
+
+/* This class is used to set up a flex container with row direction and full width */
+.wrapper-row {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+}
+
+/* This class is used for items that should not expand */
+.item {
+  flex-grow: 0; /* This means the item will not expand to take up extra space */
+}
+
+/* This class is used for items that should expand to take up extra space */
+.expand {
+  flex-grow: 1; /* This means the item will expand to take up extra space */
+}
+
+/* a Way of use */
+/*
+
+<!-- This is the main container for the items with column direction and full height -->
+<div class="wrapper-column">
+  <!-- This is the first item. It will not expand to take up extra space -->
+  <div class="item">Item 1</div>
+  <!-- This is the second item. It will expand to take up extra space -->
+  <div class="item expand">Item 2</div>
+</div>
+
+<!-- This is the main container for the items with row direction and full width -->
+<div class="wrapper-row">
+  <!-- This is the first item. It will not expand to take up extra space -->
+  <div class="item">Item 1</div>
+  <!-- This is the second item. It will expand to take up extra space -->
+  <div class="item expand">Item 2</div>
+</div>
+
+*/

@@ -1,0 +1,37 @@
+image: node:latest
+
+pipelines:
+  branches:
+    Development:
+      - step:
+          name: Deploy to Development
+          deployment: Development
+          caches:
+            - node
+          script:
+            - apt-get update && apt-get install -y rsync
+            - ssh-keyscan -H $ip >> ~/.ssh/known_hosts
+            - rsync -r -v -e ssh . $user@$ip:$REMOTE_DIR --delete-before --exclude '.git'
+            - ssh $user@$ip "bash $SCRIPT_DIR"
+    Staging:
+      - step:
+          name: Deploy to Staging
+          deployment: Staging
+          caches:
+            - node
+          script:
+            - apt-get update && apt-get install -y rsync
+            - ssh-keyscan -H $ip >> ~/.ssh/known_hosts
+            - rsync -r -v -e ssh . $user@$ip:$REMOTE_DIR --delete-before --exclude '.git'
+            - ssh $user@$ip "bash $SCRIPT_DIR"
+    Preprod:
+      - step:
+          name: Deploy to Preprd
+          deployment: Preprod
+          caches:
+            - node
+          script:
+            - apt-get update && apt-get install -y rsync
+            - ssh-keyscan -H $ip >> ~/.ssh/known_hosts
+            - rsync -r -v -e ssh . $user@$ip:$REMOTE_DIR --delete-before --exclude '.git'
+            - ssh $user@$ip "bash $SCRIPT_DIR"

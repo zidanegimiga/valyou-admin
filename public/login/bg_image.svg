@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="711" height="900" viewBox="0 0 711 900">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.675" y1="0.076" x2="0.012" y2="0.963" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#041e42"/>
+      <stop offset="1" stop-color="#1b093c"/>
+    </linearGradient>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_6059" data-name="Rectangle 6059" width="711" height="900" transform="translate(-8786 691)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect id="Rectangle_3441" data-name="Rectangle 3441" width="1216" height="734" transform="translate(0)" fill="url(#linear-gradient)"/>
+    </clipPath>
+  </defs>
+  <g id="Mask_Group_6796" data-name="Mask Group 6796" transform="translate(8786 -691)" clip-path="url(#clip-path)">
+    <g id="Group_467219" data-name="Group 467219" transform="translate(-8786 691)">
+      <path id="Path_12333" data-name="Path 12333" d="M0,0H708V900H0Z" fill="#13206e"/>
+      <g id="Mask_Group_6793" data-name="Mask Group 6793" transform="translate(0 166)" opacity="0.12" clip-path="url(#clip-path-2)">
+        <g id="Group_22846" data-name="Group 22846" transform="translate(-425.593 216.809) rotate(-30)">
+          <path id="Path_9319" data-name="Path 9319" d="M782.963,812.472c-24.984,2.557-47.779-8.911-57.956-32.048L480.382,224.389,188.814,730.195,453.288,703.13c38.549-3.945,66.66,25.2,62.812,65.091-3.85,39.915-38.2,75.449-76.749,79.394L59.13,886.525c-24.468,2.5-45.866-8.431-56.389-28.826s-8.666-47.279,4.913-70.838L436.638,42.671C451,17.784,476.114.547,501.964-2.12l.084-.009C527.856-4.769,550.12,7.535,559.964,29.9L854.757,700c14.68,33.391-2.463,78.449-38.3,100.652A79.092,79.092,0,0,1,782.963,812.472Z" transform="translate(0 0)" fill="#041e42"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

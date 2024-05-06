@@ -1,0 +1,169 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="567.999" height="351" viewBox="0 0 567.999 351">
+  <defs>
+    <filter id="Rectangle_6776" x="262" y="0" width="136" height="72" filterUnits="userSpaceOnUse">
+      <feOffset dy="8" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="8" result="blur"/>
+      <feFlood flood-opacity="0.122"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_2976" x="153.999" y="80" width="414" height="271" filterUnits="userSpaceOnUse">
+      <feOffset dx="-15" dy="-19" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-2"/>
+      <feFlood flood-color="#0a2c4f" flood-opacity="0.051"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_6776-2" x="304.999" y="106" width="136" height="72" filterUnits="userSpaceOnUse">
+      <feOffset dy="8" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="8" result="blur-3"/>
+      <feFlood flood-opacity="0.122"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_473480" data-name="Group 473480" transform="translate(-80 -119.592)">
+    <g id="Group_473477" data-name="Group 473477" transform="translate(80 126)">
+      <rect id="Rectangle_3492" data-name="Rectangle 3492" width="389" height="243" rx="6" transform="translate(0 -0.408)" fill="#fff"/>
+      <text id="New_Bookings" data-name="New Bookings" transform="translate(18.657 25.591)" font-size="12" font-family="Figtree-SemiBold, Figtree" font-weight="600"><tspan x="0" y="0">New Bookings</tspan></text>
+      <g id="Group_23049" data-name="Group 23049" transform="translate(32.086 58.687)">
+        <g id="Group_23045" data-name="Group 23045" transform="translate(6.931 1.032)">
+          <g id="Group_14132" data-name="Group 14132" transform="translate(0)">
+            <g id="Charts" transform="translate(0)">
+              <path id="Path_269" data-name="Path 269" d="M75.041,73.571V0A73.638,73.638,0,0,0,3.8,55.056Z" transform="translate(-1.47)" fill="#895bf1"/>
+              <path id="Path_270" data-name="Path 270" d="M133.427,192.345a73.565,73.565,0,0,0,39.422-21.152L120,120Z" transform="translate(-46.429 -46.429)" fill="#1ad598"/>
+              <path id="Path_271" data-name="Path 271" d="M191.916,70.628A73.671,73.671,0,0,0,170.58,32.8L120,86.262Z" transform="translate(-46.429 -12.691)" fill="#0a94ff"/>
+              <path id="Path_272" data-name="Path 272" d="M120,.2h0V73.771l50.58-53.462A73.53,73.53,0,0,0,120,.2Z" transform="translate(-46.429 -0.077)" fill="#0a94ff"/>
+              <path id="Path_273" data-name="Path 273" d="M172.849,161.327A73.815,73.815,0,0,0,191.916,94.5L120,110.134Z" transform="translate(-46.429 -36.563)" fill="#ffb536"/>
+              <path id="Path_274" data-name="Path 274" d="M73.571,108.315,2.33,89.8A73.635,73.635,0,0,0,87,180.66Z" transform="translate(0 -34.744)" fill="#f3654a"/>
+            </g>
+            <path id="Path_7378" data-name="Path 7378" d="M98.172,159.353c-37.826,5.167-58.082-13.435-58.082-13.435L84.258,86.965Z" transform="translate(-10.687 -13.394)" fill="#f3654a"/>
+          </g>
+          <circle id="Ellipse_68" data-name="Ellipse 68" cx="54.121" cy="54.121" r="54.121" transform="translate(20.055 19.143)" fill="#fff"/>
+        </g>
+        <g id="Group_23048" data-name="Group 23048" transform="translate(0 0)">
+          <text id="_23_" data-name="23%" transform="translate(16.914 8.905)" fill="#0a2c4f" font-size="8" font-family="Figtree-SemiBold, Figtree" font-weight="600"><tspan x="-7" y="0">25%</tspan></text>
+          <text id="_5_" data-name="5%" transform="translate(124.481 152.207)" fill="#0a2c4f" font-size="8" font-family="Figtree-SemiBold, Figtree" font-weight="600"><tspan x="-6" y="0">11%</tspan></text>
+          <text id="_5_2" data-name="5%" transform="translate(165.513 98.387)" fill="#0a2c4f" font-size="8" font-family="Figtree-SemiBold, Figtree" font-weight="600"><tspan x="-7" y="0">14%</tspan></text>
+          <g id="Group_23050" data-name="Group 23050" transform="translate(136.395)">
+            <text id="_5_3" data-name="5%" transform="translate(7 8)" fill="#0a2c4f" font-size="8" font-family="Figtree-SemiBold, Figtree" font-weight="600"><tspan x="-7" y="0">15%</tspan></text>
+          </g>
+          <text id="_5_4" data-name="5%" transform="translate(8 142.92)" fill="#0a2c4f" font-size="8" font-family="Figtree-SemiBold, Figtree" font-weight="600"><tspan x="-7" y="0">35%</tspan></text>
+        </g>
+      </g>
+      <g id="Group_23051" data-name="Group 23051" transform="translate(257.307 67.798)">
+        <g id="Group_22732" data-name="Group 22732" transform="translate(0 0)">
+          <rect id="_01" data-name="01" width="11.281" height="4.513" rx="2.256" transform="translate(0 4.042)" fill="#0a94ff"/>
+          <text id="Club_Assessment" data-name="Club Assessment" transform="translate(18.208 9)" fill="#050708" font-size="9" font-family="Figtree-Medium, Figtree" font-weight="500"><tspan x="0" y="0">Club Assessment</tspan></text>
+        </g>
+        <g id="Group_22733" data-name="Group 22733" transform="translate(0 30.965)">
+          <rect id="_01_Kopie_3" data-name="01 Kopie 3" width="11.281" height="4.513" rx="2.256" transform="translate(0 4.042)" fill="#895bf1"/>
+          <text id="Elite_Coaching" data-name="Elite Coaching" transform="translate(18.208 9)" fill="#050708" font-size="9" font-family="Figtree-Medium, Figtree" font-weight="500"><tspan x="0" y="0">Elite Coaching</tspan></text>
+        </g>
+        <g id="Group_22734" data-name="Group 22734" transform="translate(0 61.931)">
+          <rect id="_01_Kopie_4" data-name="01 Kopie 4" width="11.281" height="4.513" rx="2.256" transform="translate(0 4.042)" fill="#f3654a"/>
+          <text id="Practice_Golf" data-name="Practice Golf" transform="translate(18.208 9)" fill="#050708" font-size="9" font-family="Figtree-Medium, Figtree" font-weight="500"><tspan x="0" y="0">Practice Golf</tspan></text>
+        </g>
+        <g id="Group_22735" data-name="Group 22735" transform="translate(0 93.633)">
+          <rect id="_01_Kopie_5" data-name="01 Kopie 5" width="11.281" height="4.513" rx="2.256" transform="translate(0 4.076)" fill="#ffb536"/>
+          <text id="Play_Indoor_Golf" data-name="Play Indoor Golf" transform="translate(18.208 9)" fill="#050708" font-size="9" font-family="Figtree-Medium, Figtree" font-weight="500"><tspan x="0" y="0">Play Indoor Golf</tspan></text>
+        </g>
+        <g id="Group_22736" data-name="Group 22736" transform="translate(0 124.599)">
+          <rect id="_01_Kopie_6" data-name="01 Kopie 6" width="11.281" height="4.513" rx="2.256" transform="translate(0 4.034)" fill="#1ad598"/>
+          <text id="Tune_Up" data-name="Tune Up" transform="translate(18.208 9)" fill="#050708" font-size="10" font-family="Figtree-Medium, Figtree" font-weight="500"><tspan x="0" y="0">Tune Up</tspan></text>
+        </g>
+      </g>
+      <g id="Component_746_14" data-name="Component 746 – 14" transform="translate(286 9.592)">
+        <g id="Group_473338" data-name="Group 473338" transform="translate(0 16737.508)">
+          <g transform="matrix(1, 0, 0, 1, -286, -16753.51)" filter="url(#Rectangle_6776)">
+            <g id="Rectangle_6776-3" data-name="Rectangle 6776" transform="translate(286 16)" fill="none" stroke="#e2e7f1" stroke-width="1">
+              <rect width="88" height="24" rx="4" stroke="none"/>
+              <rect x="0.5" y="0.5" width="87" height="23" rx="3.5" fill="none"/>
+            </g>
+          </g>
+          <text id="This_week" data-name="This week" transform="translate(9 -16721.508)" font-size="9" font-family="Figtree" font-weight="500"><tspan x="0" y="0">This week</tspan></text>
+          <g id="Group_473339" data-name="Group 473339" transform="translate(67.829 -16733.082)">
+            <path id="Path_13920" data-name="Path 13920" d="M0,0H14.745V14.745H0Z" fill="none"/>
+            <path id="Path_13921" data-name="Path 13921" d="M6,9l3.686,3.686L13.373,9" transform="translate(-2.314 -3.47)" fill="none" stroke="#8d98a9" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="Group_473478" data-name="Group 473478" transform="translate(258.187 227.644)">
+      <g transform="matrix(1, 0, 0, 1, -178.19, -108.05)" filter="url(#Rectangle_2976)">
+        <rect id="Rectangle_2976-2" data-name="Rectangle 2976" width="390" height="243" rx="6" transform="translate(178 108)" fill="#fff"/>
+      </g>
+      <g id="Group_456076" data-name="Group 456076" transform="translate(17.73 52.063)">
+        <g id="Group_473481" data-name="Group 473481" transform="translate(5.162 144.571)">
+          <path id="Shape" d="M0,321.094V0H1.007V321.094Z" transform="translate(347.557 8.891) rotate(90)" fill="#e6e9f4"/>
+          <text id="Month" transform="translate(3 12)" fill="#7e84a3" font-size="11" font-family="Manrope-Regular, Manrope"><tspan x="-3" y="0">5</tspan></text>
+        </g>
+        <g id="Group_473482" data-name="Group 473482" transform="translate(2.213 94.646)">
+          <path id="Shape-2" data-name="Shape" d="M0,321.094V0H1.007V321.094Z" transform="translate(350.506 9.596) rotate(90)" fill="#e6e9f4"/>
+          <text id="Month-2" data-name="Month" transform="translate(5 12)" fill="#7e84a3" font-size="11" font-family="Manrope-Regular, Manrope"><tspan x="-5" y="0">15</tspan></text>
+        </g>
+        <g id="Group_473483" data-name="Group 473483" transform="translate(2.213 47.096)">
+          <path id="Shape-3" data-name="Shape" d="M0,321.094V0H1.007V321.094Z" transform="translate(350.506 10.248) rotate(90)" fill="#e6e9f4"/>
+          <text id="Month-3" data-name="Month" transform="translate(6 12)" fill="#7e84a3" font-size="11" font-family="Manrope-Regular, Manrope"><tspan x="-6" y="0">25</tspan></text>
+        </g>
+        <g id="Group_473484" data-name="Group 473484">
+          <path id="Shape-4" data-name="Shape" d="M0,321.094V0H1.007V321.094Z" transform="translate(352.719 10.498) rotate(90)" fill="#e6e9f4"/>
+          <text id="Month-4" data-name="Month" transform="translate(6 12)" fill="#7e84a3" font-size="11" font-family="Manrope-Regular, Manrope"><tspan x="-6" y="0">35</tspan></text>
+        </g>
+        <g id="Group_456069" data-name="Group 456069" transform="translate(31.625 159.855)">
+          <text id="Month-5" data-name="Month" transform="translate(8 11)" fill="#7e84a3" font-size="10" font-family="Manrope-Regular, Manrope"><tspan x="-8" y="0">Jan</tspan></text>
+          <text id="Month-6" data-name="Month" transform="translate(67.45 11)" fill="#7e84a3" font-size="10" font-family="Manrope-Regular, Manrope"><tspan x="-8" y="0">Feb</tspan></text>
+          <text id="Month-7" data-name="Month" transform="translate(127.05 12.225)" fill="#7e84a3" font-size="10" font-family="Manrope-Regular, Manrope"><tspan x="-8" y="0">Mar</tspan></text>
+          <text id="Month-8" data-name="Month" transform="translate(187.198 11)" fill="#7e84a3" font-size="10" font-family="Manrope-Regular, Manrope"><tspan x="-7" y="0">Apr</tspan></text>
+          <text id="Month-9" data-name="Month" transform="translate(247.647 11)" fill="#7e84a3" font-size="10" font-family="Manrope-Regular, Manrope"><tspan x="-9" y="0">May</tspan></text>
+          <text id="Month-10" data-name="Month" transform="translate(306.945 11)" fill="#7e84a3" font-size="10" font-family="Manrope-Regular, Manrope"><tspan x="-8" y="0">Jun</tspan></text>
+        </g>
+        <path id="Path_9417" data-name="Path 9417" d="M694.84,187.056" transform="translate(-358.522 -133.589)" fill="none" stroke="#707070" stroke-width="1"/>
+        <g id="Group_456082" data-name="Group 456082" transform="translate(32.8 36.588)">
+          <path id="Path_8729" data-name="Path 8729" d="M-22008.854-18894.721l64.357,71.8,59.7,16.688,61.07-23.787,59.7,29.32,58.1-20.672" transform="translate(22014.824 18900.096)" fill="none" stroke="#0a94ff" stroke-width="5"/>
+          <circle id="Ellipse_570" data-name="Ellipse 570" cx="4.424" cy="4.424" r="4.424" fill="#fff" stroke="#0a94ff" stroke-width="3"/>
+          <circle id="Ellipse_571" data-name="Ellipse 571" cx="4.424" cy="4.424" r="4.424" transform="translate(64.946 71.175)" fill="#fff" stroke="#0a94ff" stroke-width="3"/>
+          <circle id="Ellipse_572" data-name="Ellipse 572" cx="4.424" cy="4.424" r="4.424" transform="translate(124.396 89.102)" fill="#fff" stroke="#0a94ff" stroke-width="3"/>
+          <circle id="Ellipse_573" data-name="Ellipse 573" cx="4.424" cy="4.424" r="4.424" transform="translate(184.694 64.834)" fill="#fff" stroke="#0a94ff" stroke-width="3"/>
+          <circle id="Ellipse_574" data-name="Ellipse 574" cx="4.424" cy="4.424" r="4.424" transform="translate(244.993 94.399)" fill="#fff" stroke="#0a94ff" stroke-width="3"/>
+          <circle id="Ellipse_575" data-name="Ellipse 575" cx="4.424" cy="4.424" r="4.424" transform="translate(304.442 72.352)" fill="#fff" stroke="#0a94ff" stroke-width="3"/>
+        </g>
+      </g>
+      <g id="Group_16892" data-name="Group 16892" transform="translate(19.649 18.558)">
+        <text id="Bookings_over_time" data-name="Bookings over time" transform="translate(-2.836 11.39)" font-size="12" font-family="Figtree-SemiBold, Figtree" font-weight="600"><tspan x="0" y="0">Bookings over time</tspan></text>
+      </g>
+      <g id="Component_443_27" data-name="Component 443 – 27" transform="translate(246.813 13.947)">
+        <g id="Group_473475" data-name="Group 473475" transform="translate(0 0)">
+          <g id="Group_466379" data-name="Group 466379">
+            <g id="Group_466378" data-name="Group 466378">
+              <g id="Rectangle_2891" data-name="Rectangle 2891" transform="translate(0 0)" fill="#fff" stroke="#ced6e3" stroke-width="1">
+                <rect width="127" height="24" rx="5" stroke="none"/>
+                <rect x="0.5" y="0.5" width="126" height="23" rx="4.5" fill="none"/>
+              </g>
+            </g>
+          </g>
+          <text id="Indoor_Coaching" data-name="Indoor Coaching" transform="translate(8.847 13.53)" font-size="8" font-family="Figtree-Medium, Figtree" font-weight="500"><tspan x="0" y="0">Indoor Coaching</tspan></text>
+          <g id="Group_473346" data-name="Group 473346" transform="translate(103.218 4.424)">
+            <path id="Path_13920-2" data-name="Path 13920" d="M0,14.745H14.745V0H0Z" fill="none"/>
+            <path id="Path_13921-2" data-name="Path 13921" d="M6,12.686,9.686,9l3.686,3.686" transform="translate(-2.314 -3.47)" fill="none" stroke="#8d98a9" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+          </g>
+        </g>
+      </g>
+      <g id="Component_746_15" data-name="Component 746 – 15" transform="translate(150.813 13.947)">
+        <g id="Group_473338-2" data-name="Group 473338" transform="translate(0 16737.508)">
+          <g transform="matrix(1, 0, 0, 1, -329, -16859.51)" filter="url(#Rectangle_6776-2)">
+            <g id="Rectangle_6776-4" data-name="Rectangle 6776" transform="translate(329 122)" fill="none" stroke="#e2e7f1" stroke-width="1">
+              <rect width="88" height="24" rx="4" stroke="none"/>
+              <rect x="0.5" y="0.5" width="87" height="23" rx="3.5" fill="none"/>
+            </g>
+          </g>
+          <text id="This_year" data-name="This year" transform="translate(9 -16721.508)" font-size="9" font-family="Figtree" font-weight="500"><tspan x="0" y="0">This year</tspan></text>
+          <g id="Group_473339-2" data-name="Group 473339" transform="translate(67.829 -16733.082)">
+            <path id="Path_13920-3" data-name="Path 13920" d="M0,0H14.745V14.745H0Z" fill="none"/>
+            <path id="Path_13921-3" data-name="Path 13921" d="M6,9l3.686,3.686L13.373,9" transform="translate(-2.314 -3.47)" fill="none" stroke="#8d98a9" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
